@@ -2,6 +2,7 @@
 #print(int(v)+10)
 #name = input('Введите ваше имя: ')
 #print(f'Привет, {name}! Как дела?')
+print('Hello!')
 print(float('1'))
 print(bool(1))
 print(bool(''))
